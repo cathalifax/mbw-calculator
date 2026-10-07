@@ -1,0 +1,2037 @@
+{
+  "ok": true,
+  "source": "CAT Master Tire Inventory.xlsx / In stock now",
+  "generated": "2026-10-06",
+  "count": 165,
+  "item_id_note": "item_id from open RO with_details code match; gaps = appointment-only tire update on Save",
+  "bin_note": "preferred_bin = lowest Spryfield bin# with stock for that SKU; staff Schedule storage only",
+  "tires": [
+    {
+      "size": "11R22.5",
+      "brand": "BOTO",
+      "model": "BT218",
+      "part_number": "BTTBR11225218",
+      "price": 270.0,
+      "spryfield_qty": 12,
+      "bins": {
+        "1": 5,
+        "2": 7
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "175/65R14",
+      "brand": "BOTO",
+      "model": "BS66",
+      "part_number": "BTW1756514",
+      "price": 52.52,
+      "spryfield_qty": 6,
+      "bins": {
+        "5": 3,
+        "8": 3
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "175/65R14",
+      "brand": "BOTO",
+      "model": "Genesys 218",
+      "part_number": "BTA1756514",
+      "price": 52.52,
+      "spryfield_qty": 4,
+      "bins": {
+        "6": 4
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "175/70R14",
+      "brand": "MAZZINI",
+      "model": "Snow Leopard MS",
+      "part_number": "MZW1757014",
+      "price": 61.29,
+      "spryfield_qty": 2,
+      "bins": {
+        "2": 2
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "185/60R15",
+      "brand": "BOTO",
+      "model": "Genesys 228",
+      "part_number": "BTA1856015",
+      "price": 59.1,
+      "spryfield_qty": 37,
+      "bins": {
+        "5": 37
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "185/65R14",
+      "brand": "BOTO",
+      "model": "BS66",
+      "part_number": "BTW1856514",
+      "price": 56.9,
+      "spryfield_qty": 2,
+      "bins": {
+        "8": 2
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "185/65R14",
+      "brand": "BOTO",
+      "model": "Genesys 218",
+      "part_number": "BTA1856514",
+      "price": 54.71,
+      "spryfield_qty": 25,
+      "bins": {
+        "2": 7,
+        "6": 18
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "185/65R15",
+      "brand": "BOTO",
+      "model": "Genesys 228",
+      "part_number": "BTA1856515",
+      "price": 56.9,
+      "spryfield_qty": 12,
+      "bins": {
+        "5": 3,
+        "7": 9
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "185/65R15",
+      "brand": "MAZZINI",
+      "model": "Snow Leopard MS",
+      "part_number": "MZW1856515",
+      "price": 65.68,
+      "spryfield_qty": 2,
+      "bins": {
+        "8": 2
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "185/65R15",
+      "brand": "ZETA",
+      "model": "Antarctica Ice MS",
+      "part_number": "ZTWS1856515",
+      "price": 89.8,
+      "spryfield_qty": 4,
+      "bins": {
+        "6": 4
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "195/55R16",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA1955516",
+      "price": 61.29,
+      "spryfield_qty": 12,
+      "bins": {
+        "3": 12
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "195/60R15",
+      "brand": "BOTO",
+      "model": "BS66",
+      "part_number": "BTW1956015",
+      "price": 61.29,
+      "spryfield_qty": 5,
+      "bins": {
+        "5": 1,
+        "8": 4
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "195/60R15",
+      "brand": "BOTO",
+      "model": "Genesys 228",
+      "part_number": "BTA1956015",
+      "price": 59.1,
+      "spryfield_qty": 19,
+      "bins": {
+        "2": 4,
+        "5": 15
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "195/65R15",
+      "brand": "BOTO",
+      "model": "BS66",
+      "part_number": "BTW1956515",
+      "price": 56.9,
+      "spryfield_qty": 6,
+      "bins": {
+        "7": 1,
+        "8": 5
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "195/65R15",
+      "brand": "BOTO",
+      "model": "BS67",
+      "part_number": "BTWS1956515",
+      "price": 72.25,
+      "spryfield_qty": 8,
+      "bins": {
+        "8": 8
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "195/65R15",
+      "brand": "BOTO",
+      "model": "Genesys 228",
+      "part_number": "BTA1956515",
+      "price": 56.9,
+      "spryfield_qty": 3,
+      "bins": {
+        "7": 3
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "195/65R15",
+      "brand": "MAZZINI",
+      "model": "Snow Leopard MS",
+      "part_number": "MZW1956515",
+      "price": 65.68,
+      "spryfield_qty": 2,
+      "bins": {
+        "6": 2
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "205/50R17",
+      "brand": "BOTO",
+      "model": "BS68",
+      "part_number": "BTW2055017",
+      "price": 78.83,
+      "spryfield_qty": 14,
+      "bins": {
+        "5": 1,
+        "8": 13
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "205/50R17",
+      "brand": "BOTO",
+      "model": "Vantage H-8",
+      "part_number": "BTA2055017",
+      "price": 78.83,
+      "spryfield_qty": 22,
+      "bins": {
+        "2": 5,
+        "5": 17
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "205/55R16",
+      "brand": "BOTO",
+      "model": "BS66",
+      "part_number": "BTW2055516",
+      "price": 61.29,
+      "spryfield_qty": 1,
+      "bins": {
+        "8": 1
+      },
+      "preferred_bin": "8",
+      "item_id": 1147860
+    },
+    {
+      "size": "205/55R16",
+      "brand": "BOTO",
+      "model": "Genesys 228",
+      "part_number": "BTA2055516",
+      "price": 56.9,
+      "spryfield_qty": 16,
+      "bins": {
+        "5": 16
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "205/55R16",
+      "brand": "MAZZINI",
+      "model": "Snow Leopard MS",
+      "part_number": "MZW2055516",
+      "price": 67.87,
+      "spryfield_qty": 1,
+      "bins": {
+        "6": 1
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "205/55R17",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2055517",
+      "price": 78.83,
+      "spryfield_qty": 10,
+      "bins": {
+        "1": 10
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "205/55R17",
+      "brand": "WINDA",
+      "model": "WH18",
+      "part_number": "BTA2055517",
+      "price": 78.83,
+      "spryfield_qty": 4,
+      "bins": {
+        "1": 4
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "205/60R16",
+      "brand": "BOTO",
+      "model": "Genesys 228",
+      "part_number": "BTA2056016",
+      "price": 65.68,
+      "spryfield_qty": 2,
+      "bins": {
+        "3": 2
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "205/65R15",
+      "brand": "BOTO",
+      "model": "Genesys 228",
+      "part_number": "BTA2056515",
+      "price": 74.45,
+      "spryfield_qty": 7,
+      "bins": {
+        "7": 7
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "205/65R16",
+      "brand": "BOTO",
+      "model": "Genesys 228",
+      "part_number": "BTA2056516",
+      "price": 70.06,
+      "spryfield_qty": 2,
+      "bins": {
+        "5": 2
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "215/45R17",
+      "brand": "BOTO",
+      "model": "Vantage H-8",
+      "part_number": "BTA2154517",
+      "price": 72.25,
+      "spryfield_qty": 12,
+      "bins": {
+        "3": 12
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "215/45R17",
+      "brand": "MAZZINI",
+      "model": "Snow Leopard MS",
+      "part_number": "MZW2154517",
+      "price": 81.03,
+      "spryfield_qty": 2,
+      "bins": {
+        "2": 2
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "215/50R17",
+      "brand": "BOTO",
+      "model": "BS68",
+      "part_number": "BTW2155017",
+      "price": 78.83,
+      "spryfield_qty": 6,
+      "bins": {
+        "7": 4,
+        "8": 2
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "215/50R17",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2155017",
+      "price": 78.83,
+      "spryfield_qty": 27,
+      "bins": {
+        "3": 3,
+        "5": 7,
+        "6": 17
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "215/55R16",
+      "brand": "BOTO",
+      "model": "BS66",
+      "part_number": "BTW2155516",
+      "price": 72.25,
+      "spryfield_qty": 7,
+      "bins": {
+        "1": 4,
+        "8": 3
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "215/55R16",
+      "brand": "BOTO",
+      "model": "Vantage H-8",
+      "part_number": "BTA2155516",
+      "price": 63.48,
+      "spryfield_qty": 13,
+      "bins": {
+        "2": 13
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "215/55R16",
+      "brand": "MAZZINI",
+      "model": "Snow Leopard MS",
+      "part_number": "MZW2155516",
+      "price": 78.83,
+      "spryfield_qty": 5,
+      "bins": {
+        "8": 5
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "215/55R17",
+      "brand": "BOTO",
+      "model": "BS67",
+      "part_number": "BTWS2155517",
+      "price": 102.96,
+      "spryfield_qty": 18,
+      "bins": {
+        "8": 18
+      },
+      "preferred_bin": "8",
+      "item_id": 1147897
+    },
+    {
+      "size": "215/55R17",
+      "brand": "BOTO",
+      "model": "BS68",
+      "part_number": "BTW2155517",
+      "price": 78.83,
+      "spryfield_qty": 18,
+      "bins": {
+        "8": 18
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "215/55R17",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2155517",
+      "price": 78.83,
+      "spryfield_qty": 11,
+      "bins": {
+        "5": 11
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "215/55R17",
+      "brand": "BOTO",
+      "model": "Vantage H-8",
+      "part_number": "BTA2155517",
+      "price": 78.83,
+      "spryfield_qty": 2,
+      "bins": {
+        "3": 2
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "215/55R17",
+      "brand": "MAZZINI",
+      "model": "Snow Leopard MS",
+      "part_number": "MZW2155517",
+      "price": 87.61,
+      "spryfield_qty": 3,
+      "bins": {
+        "8": 3
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "215/55R18",
+      "brand": "WINDA",
+      "model": "WH18",
+      "part_number": "BTA2155518",
+      "price": 96.38,
+      "spryfield_qty": 12,
+      "bins": {
+        "3": 12
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "215/55R18",
+      "brand": "ZETA",
+      "model": "Antarctica 6 MS",
+      "part_number": "ZTW2155518",
+      "price": 105.15,
+      "spryfield_qty": 2,
+      "bins": {
+        "8": 2
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "215/60R16",
+      "brand": "BOTO",
+      "model": "BS67",
+      "part_number": "BTWS2156016",
+      "price": 102.96,
+      "spryfield_qty": 2,
+      "bins": {
+        "6": 2
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "215/60R16",
+      "brand": "BOTO",
+      "model": "Genesys 228",
+      "part_number": "BTA2156016",
+      "price": 70.06,
+      "spryfield_qty": 1,
+      "bins": {
+        "6": 1
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "215/60R17",
+      "brand": "BOTO",
+      "model": "BS66",
+      "part_number": "BTW2156017",
+      "price": 89.8,
+      "spryfield_qty": 7,
+      "bins": {
+        "7": 7
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "215/60R17",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2156017",
+      "price": 85.41,
+      "spryfield_qty": 15,
+      "bins": {
+        "5": 1,
+        "6": 14
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "215/65R16",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2156516",
+      "price": 83.22,
+      "spryfield_qty": 11,
+      "bins": {
+        "6": 11
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "215/65R16",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2156516",
+      "price": 89.8,
+      "spryfield_qty": 3,
+      "bins": {
+        "8": 3
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "215/65R17",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2156517",
+      "price": 83.22,
+      "spryfield_qty": 10,
+      "bins": {
+        "3": 10
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "215/65R17",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2156517",
+      "price": 98.57,
+      "spryfield_qty": 1,
+      "bins": {
+        "8": 1
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "215/70R15",
+      "brand": "BOTO",
+      "model": "Genesys 228",
+      "part_number": "BTA2157015",
+      "price": 85.41,
+      "spryfield_qty": 4,
+      "bins": {
+        "7": 4
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "215/70R16",
+      "brand": "BOTO",
+      "model": "BS66",
+      "part_number": "BTW2157016",
+      "price": 96.38,
+      "spryfield_qty": 1,
+      "bins": {
+        "8": 1
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "215/70R16",
+      "brand": "BOTO",
+      "model": "Sasqua H/T",
+      "part_number": "BTA2157016",
+      "price": 89.8,
+      "spryfield_qty": 4,
+      "bins": {
+        "7": 4
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "225/45R17",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2254517",
+      "price": 74.45,
+      "spryfield_qty": 6,
+      "bins": {
+        "2": 6
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "225/45R18",
+      "brand": "BOTO",
+      "model": "Vantage H-8",
+      "part_number": "BTA2254518",
+      "price": 83.22,
+      "spryfield_qty": 13,
+      "bins": {
+        "3": 11,
+        "5": 2
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "225/45R18",
+      "brand": "HAIDA",
+      "model": "HD617",
+      "part_number": "HDW2254518",
+      "price": 89.8,
+      "spryfield_qty": 2,
+      "bins": {
+        "8": 2
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "225/45R19",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2254519",
+      "price": 118.31,
+      "spryfield_qty": 1,
+      "bins": {
+        "5": 1
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "225/45R19",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2254519",
+      "price": 102.96,
+      "spryfield_qty": 12,
+      "bins": {
+        "8": 12
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "225/45R19",
+      "brand": "WINDA",
+      "model": "WH18",
+      "part_number": "BTA2254519",
+      "price": 118.31,
+      "spryfield_qty": 8,
+      "bins": {
+        "6": 8
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "225/50R17",
+      "brand": "BOTO",
+      "model": "BS68",
+      "part_number": "BTW2255017",
+      "price": 85.41,
+      "spryfield_qty": 11,
+      "bins": {
+        "2": 1,
+        "5": 4,
+        "8": 6
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "225/50R17",
+      "brand": "BOTO",
+      "model": "Vantage H-8",
+      "part_number": "BTA2255017",
+      "price": 81.03,
+      "spryfield_qty": 7,
+      "bins": {
+        "1": 7
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "225/50R17",
+      "brand": "HAIDA",
+      "model": "HD677",
+      "part_number": "BTWS2255017",
+      "price": 94.18,
+      "spryfield_qty": 4,
+      "bins": {
+        "8": 4
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "225/50R18",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2255018",
+      "price": 96.38,
+      "spryfield_qty": 12,
+      "bins": {
+        "5": 12
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "225/50R18",
+      "brand": "ZMAX",
+      "model": "Winterhawke I MS",
+      "part_number": "MZW2255018",
+      "price": 109.54,
+      "spryfield_qty": 3,
+      "bins": {
+        "8": 3
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "225/55R17",
+      "brand": "BOTO",
+      "model": "BS68",
+      "part_number": "BTW2255517",
+      "price": 94.18,
+      "spryfield_qty": 17,
+      "bins": {
+        "8": 17
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "225/55R17",
+      "brand": "BOTO",
+      "model": "Vantage H-8",
+      "part_number": "BTA2255517",
+      "price": 83.22,
+      "spryfield_qty": 4,
+      "bins": {
+        "5": 4
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "225/55R18",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2255518",
+      "price": 98.57,
+      "spryfield_qty": 21,
+      "bins": {
+        "3": 21
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "225/55R19",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2255519",
+      "price": 113.92,
+      "spryfield_qty": 6,
+      "bins": {
+        "5": 6
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "225/60R16",
+      "brand": "ZETA",
+      "model": "Antarctica Sport",
+      "part_number": "ZTWS2256016",
+      "price": 100.76,
+      "spryfield_qty": 2,
+      "bins": {
+        "8": 2
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "225/60R17",
+      "brand": "BOTO",
+      "model": "BS66",
+      "part_number": "BTW2256017",
+      "price": 100.76,
+      "spryfield_qty": 2,
+      "bins": {
+        "6": 2
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "225/60R18",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2256018",
+      "price": 102.96,
+      "spryfield_qty": 18,
+      "bins": {
+        "6": 18
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "225/60R18",
+      "brand": "MAZZINI",
+      "model": "Snow Leopard 2 MS",
+      "part_number": "MZW2256018",
+      "price": 109.54,
+      "spryfield_qty": 7,
+      "bins": {
+        "5": 7
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "225/65R17",
+      "brand": "BOTO",
+      "model": "BS67",
+      "part_number": "BTWS2256517",
+      "price": 105.15,
+      "spryfield_qty": 2,
+      "bins": {
+        "7": 2
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "225/65R17",
+      "brand": "BOTO",
+      "model": "Vantage H-6",
+      "part_number": "BTA2256517",
+      "price": 87.61,
+      "spryfield_qty": 1,
+      "bins": {
+        "6": 1
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "225/70R16",
+      "brand": "BOTO",
+      "model": "BS66",
+      "part_number": "BTW2257016",
+      "price": 98.57,
+      "spryfield_qty": 1,
+      "bins": {
+        "8": 1
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "225/70R19.5",
+      "brand": "BOTO",
+      "model": "BT926",
+      "part_number": "BTTBR22570195",
+      "price": 210.0,
+      "spryfield_qty": 6,
+      "bins": {
+        "1": 6
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "235/45R18",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2354518",
+      "price": 89.8,
+      "spryfield_qty": 32,
+      "bins": {
+        "2": 5,
+        "5": 27
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "235/45R18",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2354518",
+      "price": 89.9,
+      "spryfield_qty": 6,
+      "bins": {
+        "2": 4,
+        "5": 2
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "235/50R18",
+      "brand": "BOTO",
+      "model": "BS68",
+      "part_number": "BTW2355018",
+      "price": 100.76,
+      "spryfield_qty": 9,
+      "bins": {
+        "8": 9
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "235/50R18",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2355018",
+      "price": 100.76,
+      "spryfield_qty": 31,
+      "bins": {
+        "3": 31
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "235/50R19",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2355019",
+      "price": 122.69,
+      "spryfield_qty": 4,
+      "bins": {
+        "3": 4
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "235/50R19",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2355019",
+      "price": 122.69,
+      "spryfield_qty": 23,
+      "bins": {
+        "3": 19,
+        "6": 4
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "235/50R20",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2355020",
+      "price": 138.04,
+      "spryfield_qty": 13,
+      "bins": {
+        "1": 3,
+        "7": 10
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "235/55R17",
+      "brand": "BOTO",
+      "model": "BS68",
+      "part_number": "BTW2355517",
+      "price": 96.38,
+      "spryfield_qty": 8,
+      "bins": {
+        "1": 8
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "235/55R17",
+      "brand": "BOTO",
+      "model": "Vantage H-8",
+      "part_number": "BTA2355517",
+      "price": 91.99,
+      "spryfield_qty": 6,
+      "bins": {
+        "5": 6
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "235/55R18",
+      "brand": "BOTO",
+      "model": "BS68",
+      "part_number": "BTW2355518",
+      "price": 105.15,
+      "spryfield_qty": 13,
+      "bins": {
+        "2": 4,
+        "8": 9
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "235/55R18",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2355518",
+      "price": 102.96,
+      "spryfield_qty": 16,
+      "bins": {
+        "2": 7,
+        "6": 9
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "235/55R19",
+      "brand": "BOTO",
+      "model": "BV11+",
+      "part_number": "BTA2355519",
+      "price": 116.11,
+      "spryfield_qty": 7,
+      "bins": {
+        "7": 7
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "235/55R19",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2355519",
+      "price": 116.11,
+      "spryfield_qty": 4,
+      "bins": {
+        "6": 4
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "235/55R19",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2355519",
+      "price": 122.69,
+      "spryfield_qty": 11,
+      "bins": {
+        "8": 11
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "235/55R20",
+      "brand": "BOTO",
+      "model": "BV11+",
+      "part_number": "BTA2355520",
+      "price": 127.08,
+      "spryfield_qty": 17,
+      "bins": {
+        "3": 4,
+        "6": 13
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "235/60R18",
+      "brand": "BOTO",
+      "model": "Sasqua H/T",
+      "part_number": "BTA2356018",
+      "price": 105.15,
+      "spryfield_qty": 1,
+      "bins": {
+        "5": 1
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "235/60R18",
+      "brand": "MAZZINI",
+      "model": "Snow Leopard LX MS",
+      "part_number": "MZW2356018",
+      "price": 113.92,
+      "spryfield_qty": 2,
+      "bins": {
+        "5": 2
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "235/65R16C",
+      "brand": "BOTO",
+      "model": "BR01",
+      "part_number": "BTA2356516",
+      "price": 122.69,
+      "spryfield_qty": 10,
+      "bins": {
+        "5": 10
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "235/65R16C",
+      "brand": "HAIDA",
+      "model": "HD627",
+      "part_number": "HDW2356516",
+      "price": 127.08,
+      "spryfield_qty": 2,
+      "bins": {
+        "8": 2
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "235/65R17",
+      "brand": "BOTO",
+      "model": "Sasqua H/T",
+      "part_number": "BTA2356517",
+      "price": 96.38,
+      "spryfield_qty": 2,
+      "bins": {
+        "5": 2
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "235/65R17",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2356517",
+      "price": 102.96,
+      "spryfield_qty": 4,
+      "bins": {
+        "6": 4
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "235/65R17",
+      "brand": "HAIDA",
+      "model": "HD677",
+      "part_number": "BTWS2356517",
+      "price": 105.15,
+      "spryfield_qty": 9,
+      "bins": {
+        "5": 5,
+        "8": 4
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "235/65R18",
+      "brand": "BOTO",
+      "model": "BV11+",
+      "part_number": "BTA2356518",
+      "price": 109.54,
+      "spryfield_qty": 10,
+      "bins": {
+        "3": 10
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "235/65R18",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2356518",
+      "price": 113.92,
+      "spryfield_qty": 20,
+      "bins": {
+        "8": 20
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "235/70R16",
+      "brand": "BOTO",
+      "model": "Sasqua H/T",
+      "part_number": "BTA2357016",
+      "price": 92.0,
+      "spryfield_qty": 4,
+      "bins": {
+        "5": 4
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "235/75R17.5",
+      "brand": "BOTO",
+      "model": "BT926",
+      "part_number": "BTTBR23575175",
+      "price": 190.0,
+      "spryfield_qty": 3,
+      "bins": {
+        "1": 3
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "245/40R18",
+      "brand": "BOTO",
+      "model": "BS68",
+      "part_number": "BTW2454018",
+      "price": 100.76,
+      "spryfield_qty": 6,
+      "bins": {
+        "6": 6
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "245/40R18",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2454018",
+      "price": 94.18,
+      "spryfield_qty": 3,
+      "bins": {
+        "5": 3
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "245/40R19",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2454019",
+      "price": 67.84,
+      "spryfield_qty": 4,
+      "bins": {
+        "6": 4
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "245/45R18",
+      "brand": "BOTO",
+      "model": "BS68",
+      "part_number": "BTW2454518",
+      "price": 100.76,
+      "spryfield_qty": 11,
+      "bins": {
+        "5": 4,
+        "8": 7
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "245/45R18",
+      "brand": "BOTO",
+      "model": "Vantage H-8",
+      "part_number": "BTA2454518",
+      "price": 96.38,
+      "spryfield_qty": 17,
+      "bins": {
+        "6": 17
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "245/45R19",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2454519",
+      "price": 116.11,
+      "spryfield_qty": 2,
+      "bins": {
+        "2": 2
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "245/45R19",
+      "brand": "BOTO",
+      "model": "Vantage H-7",
+      "part_number": "BTA2454519",
+      "price": 116.11,
+      "spryfield_qty": 25,
+      "bins": {
+        "1": 4,
+        "2": 12,
+        "6": 9
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "245/45R19",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2454519",
+      "price": 118.31,
+      "spryfield_qty": 4,
+      "bins": {
+        "2": 4
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "245/45R20",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2454520",
+      "price": 127.08,
+      "spryfield_qty": 40,
+      "bins": {
+        "1": 35,
+        "6": 5
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "245/45R20",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2454520",
+      "price": 135.85,
+      "spryfield_qty": 7,
+      "bins": {
+        "5": 4,
+        "8": 3
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "245/50R20",
+      "brand": "BOTO",
+      "model": "BV11+",
+      "part_number": "BTA2455020",
+      "price": 127.08,
+      "spryfield_qty": 8,
+      "bins": {
+        "6": 8
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "245/50R20",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2455020",
+      "price": 140.24,
+      "spryfield_qty": 8,
+      "bins": {
+        "7": 4,
+        "8": 4
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "245/55R19",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2455519",
+      "price": 146.82,
+      "spryfield_qty": 46,
+      "bins": {
+        "5": 4,
+        "8": 42
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "245/60R18",
+      "brand": "BOTO",
+      "model": "Sasqua H/T",
+      "part_number": "BTA2456517",
+      "price": 109.54,
+      "spryfield_qty": 6,
+      "bins": {
+        "6": 6
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "245/60R18",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2456018",
+      "price": 113.92,
+      "spryfield_qty": 1,
+      "bins": {
+        "8": 1
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "245/65R17",
+      "brand": "BOTO",
+      "model": "WD69",
+      "part_number": "BTW2456517",
+      "price": 127.08,
+      "spryfield_qty": 1,
+      "bins": {
+        "8": 1
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "245/70R19.5",
+      "brand": "BOTO",
+      "model": "BT926",
+      "part_number": "BTTBR24570195",
+      "price": 220.0,
+      "spryfield_qty": 4,
+      "bins": {
+        "7": 4
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "255/40R20",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2554020",
+      "price": 140.24,
+      "spryfield_qty": 8,
+      "bins": {
+        "7": 8
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "255/45R19",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2554519",
+      "price": 140.24,
+      "spryfield_qty": 8,
+      "bins": {
+        "5": 8
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "255/45R20",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2554520",
+      "price": 131.16,
+      "spryfield_qty": 3,
+      "bins": {
+        "1": 3
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "255/50R20",
+      "brand": "BOTO",
+      "model": "BV11+",
+      "part_number": "BTA2555020",
+      "price": 131.46,
+      "spryfield_qty": 7,
+      "bins": {
+        "5": 7
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "255/50R20",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2555020",
+      "price": 131.46,
+      "spryfield_qty": 4,
+      "bins": {
+        "6": 4
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "255/55R18",
+      "brand": "BOTO",
+      "model": "Sasqua H/T",
+      "part_number": "BTA2555518",
+      "price": 122.69,
+      "spryfield_qty": 10,
+      "bins": {
+        "1": 10
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "255/55R19",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2555519",
+      "price": 127.08,
+      "spryfield_qty": 14,
+      "bins": {
+        "2": 8,
+        "5": 4,
+        "8": 2
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "255/55R20",
+      "brand": "BOTO",
+      "model": "BV11+",
+      "part_number": "BTA2555520",
+      "price": 144.62,
+      "spryfield_qty": 21,
+      "bins": {
+        "5": 7,
+        "6": 14
+      },
+      "preferred_bin": "5",
+      "item_id": 1148001
+    },
+    {
+      "size": "255/55R20",
+      "brand": "WINDA",
+      "model": "WV11",
+      "part_number": "BTA2555520WV11",
+      "price": 144.62,
+      "spryfield_qty": 8,
+      "bins": {
+        "2": 8
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "265/45R20",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2654520",
+      "price": 149.01,
+      "spryfield_qty": 10,
+      "bins": {
+        "1": 4,
+        "6": 4,
+        "8": 2
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "265/45R21",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2654521",
+      "price": 149.01,
+      "spryfield_qty": 4,
+      "bins": {
+        "2": 4
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "265/55R19",
+      "brand": "BOTO",
+      "model": "E-Teck T600",
+      "part_number": "BTEV2655519",
+      "price": 85.19,
+      "spryfield_qty": 10,
+      "bins": {
+        "7": 10
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "275/45R20",
+      "brand": "BOTO",
+      "model": "Sasqua H/T",
+      "part_number": "BTA2754520",
+      "price": 138.05,
+      "spryfield_qty": 2,
+      "bins": {
+        "3": 2
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "275/45R20",
+      "brand": "WINDA",
+      "model": "WV11",
+      "part_number": "BTA2754520WV11",
+      "price": 149.01,
+      "spryfield_qty": 1,
+      "bins": {
+        "6": 1
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "275/45R21",
+      "brand": "WINDA",
+      "model": "WV11",
+      "part_number": "BTA2754521WV11",
+      "price": 157.78,
+      "spryfield_qty": 8,
+      "bins": {
+        "6": 8
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "275/65R18",
+      "brand": "HAIDA",
+      "model": "HD617",
+      "part_number": "HDW2756518",
+      "price": 162.17,
+      "spryfield_qty": 7,
+      "bins": {
+        "5": 7
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "315/80R22.5",
+      "brand": "BOTO",
+      "model": "BT168",
+      "part_number": "BTTBR31580225",
+      "price": 320.0,
+      "spryfield_qty": 3,
+      "bins": {
+        "1": 3
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "33x12.50R15",
+      "brand": "HAIDA",
+      "model": "HD869",
+      "part_number": "HDA33125015",
+      "price": 306.71,
+      "spryfield_qty": 4,
+      "bins": {
+        "7": 4
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "35x12.50R22",
+      "brand": "HAIDA",
+      "model": "HD878",
+      "part_number": "HDA35125022",
+      "price": 267.43,
+      "spryfield_qty": 12,
+      "bins": {
+        "7": 12
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "LT225/75R16",
+      "brand": "BOTO",
+      "model": "BA80+",
+      "part_number": "BTLT2257516",
+      "price": 127.08,
+      "spryfield_qty": 12,
+      "bins": {
+        "3": 4,
+        "7": 8
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "LT235/75R15",
+      "brand": "BOTO",
+      "model": "BA80+",
+      "part_number": "BTLT2357515",
+      "price": 127.08,
+      "spryfield_qty": 16,
+      "bins": {
+        "3": 3,
+        "7": 13
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "LT245/70R17",
+      "brand": "HAIDA",
+      "model": "HD818",
+      "part_number": "HDA2457017",
+      "price": 144.62,
+      "spryfield_qty": 10,
+      "bins": {
+        "1": 10
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "LT245/75R16",
+      "brand": "BOTO",
+      "model": "BA80+",
+      "part_number": "BTA2457516",
+      "price": 136.4,
+      "spryfield_qty": 4,
+      "bins": {
+        "2": 4
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "LT245/75R16",
+      "brand": "WINDA",
+      "model": "WA80+",
+      "part_number": "BTA2457516",
+      "price": 136.4,
+      "spryfield_qty": 3,
+      "bins": {
+        "2": 3
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "LT265/70R17",
+      "brand": "BOTO",
+      "model": "BA80+",
+      "part_number": "BTA2657017",
+      "price": 153.39,
+      "spryfield_qty": 8,
+      "bins": {
+        "7": 8
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "LT265/70R17",
+      "brand": "MILEKING",
+      "model": "MK878",
+      "part_number": "HDA2657017",
+      "price": 153.39,
+      "spryfield_qty": 4,
+      "bins": {
+        "1": 4
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "LT265/75R16",
+      "brand": "BOTO",
+      "model": "BA80+",
+      "part_number": "BTA2657516",
+      "price": 149.01,
+      "spryfield_qty": 12,
+      "bins": {
+        "7": 12
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "LT265/75R16",
+      "brand": "HAIDA",
+      "model": "HD878",
+      "part_number": "HDA2657516",
+      "price": 192.87,
+      "spryfield_qty": 12,
+      "bins": {
+        "1": 12
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "LT275/65R18",
+      "brand": "BOTO",
+      "model": "BA80+",
+      "part_number": "BTLT2657516",
+      "price": 175.32,
+      "spryfield_qty": 17,
+      "bins": {
+        "7": 17
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "LT285/70R17",
+      "brand": "HAIDA",
+      "model": "HD828",
+      "part_number": "HDA2857017",
+      "price": 192.87,
+      "spryfield_qty": 8,
+      "bins": {
+        "1": 8
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "LT285/70R17",
+      "brand": "WINDA",
+      "model": "WA80+",
+      "part_number": "BTLT2857017",
+      "price": 184.1,
+      "spryfield_qty": 2,
+      "bins": {
+        "3": 2
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "LT285/75R16",
+      "brand": "MILEKING",
+      "model": "MK869",
+      "part_number": "HDA2857516",
+      "price": 347.58,
+      "spryfield_qty": 4,
+      "bins": {
+        "6": 4
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "LT305/55R20",
+      "brand": "MILEKING",
+      "model": "MK869",
+      "part_number": "HDA3055520",
+      "price": 368.71,
+      "spryfield_qty": 8,
+      "bins": {
+        "2": 4,
+        "3": 4
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "LT31x10.5R15",
+      "brand": "BOTO",
+      "model": "BA80+",
+      "part_number": "BTLT31105015",
+      "price": 135.85,
+      "spryfield_qty": 28,
+      "bins": {
+        "5": 8,
+        "7": 20
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "LT33x12.50R17",
+      "brand": "HAIDA",
+      "model": "HD868",
+      "part_number": "HDA33125017",
+      "price": 212.61,
+      "spryfield_qty": 12,
+      "bins": {
+        "2": 8,
+        "3": 4
+      },
+      "preferred_bin": "2"
+    },
+    {
+      "size": "LT33x12.50R18",
+      "brand": "HAIDA",
+      "model": "HD878",
+      "part_number": "HDA33125018",
+      "price": 212.61,
+      "spryfield_qty": 6,
+      "bins": {
+        "1": 6
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "LT33x12.50R20",
+      "brand": "HAIDA",
+      "model": "HD869",
+      "part_number": "HDA33125020",
+      "price": 352.1,
+      "spryfield_qty": 2,
+      "bins": {
+        "1": 2
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "LT35x12.50R18",
+      "brand": "HAIDA",
+      "model": "HD878",
+      "part_number": "HDA35125018",
+      "price": 236.73,
+      "spryfield_qty": 4,
+      "bins": {
+        "1": 4
+      },
+      "preferred_bin": "1"
+    },
+    {
+      "size": "P225/70R16",
+      "brand": "WINDA",
+      "model": "WV11",
+      "part_number": "BTA2257016WV11",
+      "price": 98.57,
+      "spryfield_qty": 13,
+      "bins": {
+        "6": 13
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "P245/65R17",
+      "brand": "BOTO",
+      "model": "Sasqua H/T",
+      "part_number": "BTA2456018",
+      "price": 105.15,
+      "spryfield_qty": 4,
+      "bins": {
+        "5": 4
+      },
+      "preferred_bin": "5"
+    },
+    {
+      "size": "P245/75R16",
+      "brand": "BOTO",
+      "model": "Sasqua H/T",
+      "part_number": "BTA2457516P",
+      "price": 87.53,
+      "spryfield_qty": 2,
+      "bins": {
+        "7": 2
+      },
+      "preferred_bin": "7"
+    },
+    {
+      "size": "P265/65R17",
+      "brand": "BOTO",
+      "model": "BA80+",
+      "part_number": "BTA2555523",
+      "price": 138.04,
+      "spryfield_qty": 24,
+      "bins": {
+        "6": 8,
+        "7": 16
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "P265/70R17",
+      "brand": "BOTO",
+      "model": "BA80+",
+      "part_number": "BTA2657017P",
+      "price": 138.04,
+      "spryfield_qty": 4,
+      "bins": {
+        "6": 1,
+        "7": 3
+      },
+      "preferred_bin": "6"
+    },
+    {
+      "size": "P265/70R17",
+      "brand": "BOTO",
+      "model": "Sasqua H/T",
+      "part_number": "BTA2555524",
+      "price": 138.04,
+      "spryfield_qty": 22,
+      "bins": {
+        "3": 22
+      },
+      "preferred_bin": "3"
+    },
+    {
+      "size": "P275/60R20",
+      "brand": "BOTO",
+      "model": "BA80+",
+      "part_number": "BTA2756020",
+      "price": 162.17,
+      "spryfield_qty": 5,
+      "bins": {
+        "8": 5
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "P275/60R20",
+      "brand": "HAIDA",
+      "model": "HD868",
+      "part_number": "HDA2756020",
+      "price": 162.17,
+      "spryfield_qty": 4,
+      "bins": {
+        "8": 4
+      },
+      "preferred_bin": "8"
+    },
+    {
+      "size": "P275/70R17",
+      "brand": "BOTO",
+      "model": "BA80+",
+      "part_number": "BTA2757017",
+      "price": 138.04,
+      "spryfield_qty": 6,
+      "bins": {
+        "1": 6
+      },
+      "preferred_bin": "1"
+    }
+  ]
+}
